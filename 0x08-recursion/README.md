@@ -1,0 +1,1 @@
+This project explores the concept of recursion in the C programming language. Recursion is a powerful technique that involves a function calling itself to solve a problem. This project provides examples and implementations of recursive algorithms in C, demonstrating its versatility in solving a wide range of problems.
